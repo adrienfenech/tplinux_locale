@@ -1,0 +1,27 @@
+{
+  "name": "tp-linux-locale",
+  "version": "0.2.9",
+  "description": "tp-linux-locale",
+  "author": "Adrien Fenech <adrienfenech@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "step1": "addr=http://164.132.54.248 S0=${HOME} node step1.js",
+    "step2": "addr=http://164.132.54.248 S1=${STEP_1_VAR} node step2.js",
+    "step3": "addr=http://164.132.54.248 S1=${STEP_1_VAR} S2=${STEP_2_VAR} node step3.js",
+    "step4": "addr=http://164.132.54.248 S1=${STEP_1_VAR} S2=${STEP_2_VAR} S3=${STEP_3_VAR} node step4.js",
+    "step5": "addr=http://164.132.54.248 S1=${STEP_1_VAR} S2=${STEP_2_VAR} S3=${STEP_3_VAR} S4=${STEP_4_VAR} node step5.js"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "chai": "^4.1.2"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "request": "^2.83.0",
+    "crypto": "^1.0.1",
+    "body-parser": "^1.15.2",
+    "mongoose": "^4.13.7",
+    "cookie-parser": "^1.4.3"
+  }
+}
