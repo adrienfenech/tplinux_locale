@@ -19,7 +19,7 @@ Avant de passer à la partie suivante, n'oubliez pas un petit `apt-get update` d
 
 > Ce tp est un _follow the guide_, il devrait donc être bouclé en 20min (installation comprise).
  
-> Vous  pouvez suivre votre avancement sur [164.132.54.248/advancement](164.132.54.248/advancement)
+> Vous  pouvez suivre votre avancement sur [http://164.132.54.248/advancement](http://164.132.54.248/advancement)
 > Attention: Avoir 100% ne veut pas dire 20/20 ! D'autres variables calculées par la moulinette rentrent en jeu. Par contre, un 0% à de forte chance de ne pas vous rapporter beaucoup de point...
 
 Le programme de ce TP:
