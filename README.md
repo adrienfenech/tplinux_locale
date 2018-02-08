@@ -350,3 +350,13 @@ Un petit `systemd daemon-reload` suivi d'un `sudo service mongodb restart` nous 
 Montrez moi que `mongo -u admin -p test --authenticationDatabase admin` fonctionne, et on pourra aller prendre un café !
 
 # VII] Pour aller plus loin...
+
+Parce que vous vous ennuyez déjà, voici quelques pistes de recherches que nous verront possiblement durant nos heures de DevOps:
+
+* Refaire ce tp en moins de 2min30 avec Docker (Téléchargement et installation compris),
+* Gérer dynamiquement la génération de configuration nginx
+* Faire un _push to start_ (Une commande à exécuter pour installer et lancer). Script sh + Docker peut être un très beau combo (rappel pour les _même pas peur_: `curl my_remote_script.sh | bash`)
+* Lancer une belle CI pour tester les différentes étapes à notre place (A quoi ça sert de la lancer si elle crash :)).
+* Et surtout le plus important, __aider vos camarades__. Une promo MTI sans esprit de promo a toujours été un échec pour le reste de l'année.
+---
+Adrien Fenech
