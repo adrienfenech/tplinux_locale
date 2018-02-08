@@ -19,7 +19,7 @@ Avant de passer à la partie suivante, n'oubliez pas un petit `apt-get update` d
 
 > Ce tp est un _follow the guide_, il devrait donc être bouclé en 20min (installation comprise).
  
-> Vous  pouvez suivre votre avancement sur [164.132.54.248:/advancement](164.132.54.248:/advancement)
+> Vous  pouvez suivre votre avancement sur [164.132.54.248/advancement](164.132.54.248/advancement)
 > Attention: Avoir 100% ne veut pas dire 20/20 ! D'autres variables calculées par la moulinette rentrent en jeu. Par contre, un 0% à de forte chance de ne pas vous rapporter beaucoup de point...
 
 Le programme de ce TP:
@@ -351,11 +351,12 @@ Montrez moi que `mongo -u admin -p test --authenticationDatabase admin` fonction
 
 # VII] Pour aller plus loin...
 
-Parce que vous vous ennuyez déjà, voici quelques pistes de recherches que nous verront possiblement durant nos heures de DevOps:
+Parce que vous vous ennuyez déjà, voici quelques pistes de recherches que nous verront possiblement durant nos heures de DevOps mais qui peuvent vous rapporter des points pour ce tutoriel (à envoyer sur "adrienfenech@gmail.com" et comme objet "[MTI][TP-linux] login_x"):
 
 * Refaire ce tp en moins de 2min30 avec Docker (Téléchargement et installation compris),
 * Gérer dynamiquement la génération de configuration nginx
-* Faire un _push to start_ (Une commande à exécuter pour installer et lancer). Script sh + Docker peut être un très beau combo (rappel pour les _même pas peur_: `curl my_remote_script.sh | bash`)
+* Faire un _push to configure_ (Une commande à exécuter pour installer et configurer). Script sh que l'on peut lancer facilement: `curl my_remote_script.sh | bash`)
+* Faire un _push to start_ (Une commande à exécuter pour installer, configurer et lancer). Script sh + Docker peut être un très beau combo (idem: `curl my_remote_script.sh | bash`)
 * Lancer une belle CI pour tester les différentes étapes à notre place (A quoi ça sert de la lancer si elle crash :)).
 * Et surtout le plus important, __aider vos camarades__. Une promo MTI sans esprit de promo a toujours été un échec pour le reste de l'année.
 ---
