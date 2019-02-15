@@ -32,6 +32,58 @@ Le programme de ce TP:
 6. On monte notre base de données
 7. On utilise une version sécurisée de notre base de données
 
+
+> Pour la suite du TP, merci d'utiliser vos logins tels qu'ils m'ont été communiqué:
+```
+const login_arr = [
+        "attal_d",
+        "gad.azeraf",
+        "boulay_v",
+        "brique_b",
+        "champs_r",
+        "darves_e",
+        "delaho_h",
+        "elfass_e",
+        "emmanuel.meric-de-bellefon",
+        "grand_m",
+        "griffe_b",
+        "guillo_i",
+        "hellec_a",
+        "issarn_t",
+        "kellian.nahon",
+        "khalil_j",
+        "lacout_l",
+        "lamarq_d",
+        "laxman.thayalan",
+        "leaute_a",
+        "leduc_s",
+        "lee_o",
+        "levert_s",
+        "maayou_a",
+        "maxime.lacombe",
+        "mazyad_v",
+        "monseg_l",
+        "mounie_r",
+        "mulet_n",
+        "nicolas.roy",
+        "ouvrar_v",
+        "pamart_a",
+        "queiro_r",
+        "righet_n",
+        "stepha_l",
+        "tanguy.chevillard",
+        "truong_f",
+        "valade_a",
+        "verzot_t",
+        "vidal_d",
+        "vigny_a",
+        "wentzl_q",
+        "fenech_a"
+    ];
+```
+
+Si vous avez un problème, faites moi signe !
+
 # I] _Basics_
 
 > Commande(s) utile(s) pour cette partie:
