@@ -19,7 +19,7 @@ Avant de passer à la partie suivante, n'oubliez pas un petit `apt-get update` d
 
 > Ce tp est un _follow the guide_, il devrait donc être bouclé en 20min (installation comprise).
  
-> Vous  pouvez suivre votre avancement sur [http://164.132.54.248/advancement](http://164.132.54.248/advancement)
+> Vous  pouvez suivre votre avancement sur [http://217.182.253.20/advancement](http://217.182.253.20/advancement)
 > Attention: Avoir 100% ne veut pas dire 20/20 ! D'autres variables calculées par la moulinette rentrent en jeu. Par contre, un 0% à de forte chance de ne pas vous rapporter beaucoup de point...
 
 Le programme de ce TP:
@@ -173,7 +173,7 @@ Il est temps de lancer `npm run step2`.
 
 Ici seulement 3 ports sont utilisés par notre application. Vous pouvez les découvrir via  `netstat -tulpn`. Ceux qui vous intéressent sont ceux liés à notre process en cours ;)
 
-Une fois que vous les avez récupéré, direction http://164.132.54.248/step2/login_x avec votre _hash_ de l'étape 1.
+Une fois que vous les avez récupéré, direction http://217.182.253.20/step2/login_x avec votre _hash_ de l'étape 1.
 _____
 **ATTENTION**
 
