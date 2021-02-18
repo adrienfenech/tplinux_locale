@@ -1,6 +1,6 @@
 Initiation à la création / configuration d'un serveur Linux
 
-# 0] Ubuntu Desktop 16.04
+# 0] Ubuntu Desktop 20.10
 
 La première partie de ce tp consiste bien entendu à télécharger et installer une distribution Linux. Par un soucis de facilité pour les tests, notation, etc... Nous allons partir sur un Ubuntu classique (Ubuntu 20.10).
 
