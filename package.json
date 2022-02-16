@@ -5,11 +5,11 @@
   "author": "Adrien Fenech <adrienfenech@gmail.com>",
   "main": "server.js",
   "scripts": {
-    "step1": "addr=http://217.182.253.20 S0=${HOME} node step1.js",
-    "step2": "addr=http://217.182.253.20 S1=${STEP_1_VAR} node step2.js",
-    "step3": "addr=http://217.182.253.20 S1=${STEP_1_VAR} S2=${STEP_2_VAR} node step3.js",
-    "step4": "addr=http://217.182.253.20 S1=${STEP_1_VAR} S2=${STEP_2_VAR} S3=${STEP_3_VAR} node step4.js",
-    "step5": "addr=http://217.182.253.20 S1=${STEP_1_VAR} S2=${STEP_2_VAR} S3=${STEP_3_VAR} S4=${STEP_4_VAR} node step5.js"
+    "step1": "addr=https://adricotier.com S0=${HOME} node step1.js",
+    "step2": "addr=https://adricotier.com S1=${STEP_1_VAR} node step2.js",
+    "step3": "addr=https://adricotier.com S1=${STEP_1_VAR} S2=${STEP_2_VAR} node step3.js",
+    "step4": "addr=https://adricotier.com S1=${STEP_1_VAR} S2=${STEP_2_VAR} S3=${STEP_3_VAR} node step4.js",
+    "step5": "addr=https://adricotier.com S1=${STEP_1_VAR} S2=${STEP_2_VAR} S3=${STEP_3_VAR} S4=${STEP_4_VAR} node step5.js"
   },
   "devDependencies": {
     "mocha": "^4.0.1",
