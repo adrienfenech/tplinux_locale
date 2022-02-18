@@ -33,66 +33,7 @@ Le programme de ce TP:
 7. On utilise une version sécurisée de notre base de données
 
 
-> Pour la suite du TP, merci d'utiliser vos logins de la liste suivante (volontairement _updatés_):
-```
-    const users = [
-    	"robin.adjanoh",
-	"wassim.ajili",
-	"fabien.andria",
-	"louis.arrigno",
-	"alexia.becouz",
-	"niels.beeker",
-	"mathieu.billy",
-	"sacha.bittner",
-	"alexandre.bug",
-	"thibault.cava",
-	"alexandre.cha",
-	"amaury.chalot",
-	"ugo.chane-you",
-	"antoine.claud",
-	"goh-kenedja.c",
-	"pierre.courto",
-	"remy.dao",
-	"ariane.deltou",
-	"leo.destigny",
-	"cheick-tidian",
-	"antoine.du-fo",
-	"xavier.facque",
-	"simon.fournie",
-	"marc.geninet",
-	"david.ghiassi",
-	"colas.gosseli",
-	"adrien.guell",
-	"alexandre.hu",
-	"joseph.huang",
-	"samy.hussaien",
-	"aria.kassaei",
-	"corentin.kelo",
-	"arnaud.lassar",
-	"louis.le-gatt",
-	"corentin.le-g",
-	"marile.lin",
-	"baptiste.monf",
-	"kenz.narainen",
-	"guillaume.ped",
-	"paul.radic",
-	"erwan.salle",
-	"louis.santucc",
-	"mehdi.seddiki",
-	"pierre.sousa",
-	"yohan.tancrez",
-	"leo.tavernier",
-	"valentin.thir",
-	"thomas.tourre",
-	"alexandre.ver",
-	"maceo.vivier",
-	"hugo.wahl",
-	"antony.yang",
-	"jeremie.zeito",
-	"angelique.zhe"
-    ];
-```
-
+> Pour la suite du TP, merci d'utiliser vos logins et de le rentrer sur https://adricotier.com/new
 Si vous avez un problème, faites moi signe !
 
 # I] _Basics_
